@@ -2,7 +2,7 @@
 
 A curiosidade me pediu pra aprender o funcionamento do JWT e aí está! Versão usando React + Vite e Node.js.
 
-O código em si é simples, mas para uma primeira abordagem, é um grande ensinamento.
+O código em si é simples, mas para uma primeira abordagem, é um grande ensinamento e contei com ajuda do canal do youtube PedroTech para o desenvolvimento da aplicação.
 
 # Trejetória de compreendimento do código e da API:
 
